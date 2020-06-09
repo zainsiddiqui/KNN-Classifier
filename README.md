@@ -15,9 +15,9 @@ transform our data into a higher dimension and draw better distinctions to the f
 Below is the formula for the Euclidean distance, in which q is a feature of the training data and p
 is a feature of the test data.
 
-
+<p align="center">
 <img width="412" alt="Screen Shot 2020-06-08 at 8 24 34 PM" src="https://user-images.githubusercontent.com/39894720/84092795-75037100-a9c6-11ea-98cc-fbf4857b45e4.png">
-
+</p>
 
 ### Steps taken to avoid overfitting
 In order to prevent overfitting in our model, we can attempt to choose the best value for
