@@ -1,6 +1,6 @@
 from math import sqrt
 # Classifier built without use of external libraries
-
+# Uses Euclidean Distance as the distance measure between two vectors
 
 # Make a classification prediction with neighbors
 def classify(train, test_row, num_neighbors):
